@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <data>
+        <variable
+            name="vm"
+            type="jp.cordea.gene.viewmodels.MainViewModel" />
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/common_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="jp.cordea.gene.activities.MainActivity"
+        tools:showIn="@layout/activity_main">
+
+        <android.support.design.widget.TextInputEditText
+            android:text="@={vm.query}"
+            android:hint="@string/main_search_hint"
+            android:textColorHint="#66FFFFFF"
+            android:textSize="@dimen/main_search_text_size"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </FrameLayout>
+</layout>

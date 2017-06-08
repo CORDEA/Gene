@@ -1,0 +1,87 @@
+{
+  "max_score": 423.2865,
+  "took": 4,
+  "total": 32,
+  "hits": [
+    {
+      "_id": "1017",
+      "_score": 423.2865,
+      "entrezgene": 1017,
+      "name": "cyclin dependent kinase 2",
+      "symbol": "CDK2",
+      "taxid": 9606
+    },
+    {
+      "_id": "12566",
+      "_score": 301.0408,
+      "entrezgene": 12566,
+      "name": "cyclin-dependent kinase 2",
+      "symbol": "Cdk2",
+      "taxid": 10090
+    },
+    {
+      "_id": "362817",
+      "_score": 254.72685,
+      "entrezgene": 362817,
+      "name": "cyclin dependent kinase 2",
+      "symbol": "Cdk2",
+      "taxid": 10116
+    },
+    {
+      "_id": "143384",
+      "_score": 21.927483,
+      "entrezgene": 143384,
+      "name": "CDK2 associated cullin domain 1",
+      "symbol": "CACUL1",
+      "taxid": 9606
+    },
+    {
+      "_id": "52004",
+      "_score": 20.477695,
+      "entrezgene": 52004,
+      "name": "CDK2-associated protein 2",
+      "symbol": "Cdk2ap2",
+      "taxid": 10090
+    },
+    {
+      "_id": "78832",
+      "_score": 16.459993,
+      "entrezgene": 78832,
+      "name": "CDK2 associated, cullin domain 1",
+      "symbol": "Cacul1",
+      "taxid": 10090
+    },
+    {
+      "_id": "365493",
+      "_score": 13.951519,
+      "entrezgene": 365493,
+      "name": "CDK2-associated, cullin domain 1",
+      "symbol": "Cacul1",
+      "taxid": 10116
+    },
+    {
+      "_id": "13445",
+      "_score": 12.924426,
+      "entrezgene": 13445,
+      "name": "CDK2 (cyclin-dependent kinase 2)-associated protein 1",
+      "symbol": "Cdk2ap1",
+      "taxid": 10090
+    },
+    {
+      "_id": "690181",
+      "_score": 8.20204,
+      "entrezgene": 690181,
+      "name": "similar to S-phase kinase-associated protein 1A (Cyclin A/CDK2-associated protein p19) (p19A) (p19skp1)",
+      "symbol": "LOC690181",
+      "taxid": 10116
+    },
+    {
+      "_id": "690646",
+      "_score": 6.9757595,
+      "entrezgene": 690646,
+      "name": "similar to S-phase kinase-associated protein 2 (F-box protein Skp2) (Cyclin A/CDK2-associated protein p45) (F-box/WD-40 protein 1) (FWD1)",
+      "symbol": "LOC690646",
+      "taxid": 10116
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="list_item_oneline_height">48dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_item_text_size">16sp</dimen>
+    <dimen name="list_header_summary_top_margin">8dp</dimen>
+    <dimen name="list_header_bottom_margin">8dp</dimen>
+    <dimen name="list_header_shadow_height">2dp</dimen>
+    <dimen name="list_header_title_text_size">24sp</dimen>
+    <dimen name="list_header_text_size">14sp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="main_search_text_size">36sp</dimen>
+</resources>
